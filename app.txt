@@ -1,3 +1,4 @@
 Initialize application
 Improve the application header styling
 Add footer section to improve
+Add search functinality
